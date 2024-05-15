@@ -1,0 +1,28 @@
+agenda
+
+current work status
+1. daily backup-weekly and daily
+2. total number of incidents
+3. sampark page- page create(simple webpage with db connectivity), new page, view and modify delete page
+4. webscrapping project-target date is June 8
+
+induviual task
+
+varsha
+
+1. create loginpage
+powershell scripting
+d.u.o cisco
+
+
+Sudarshan
+
+
+
+Santosh
+
+
+major issues
+
+pending issues-brilliyant excel integration with d.u.o cisco
+egsspl.in-client tally has to be upgraded to editlog
