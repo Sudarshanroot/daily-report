@@ -1,0 +1,6 @@
+Daily Report;
+
+1. When I run the project the tables created and data also can be seen in the database.
+2. After this I fetched those data and created a new page to view that.
+3. Now I have to create a login and logout page to that.
+4. Also created a superuser so we can add a data in Django administration.
